@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/0ed30faa6e9dc88ebf5dae1e94fb7a44da2a2500/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dfe7d8100c6fc279ea5660b8458bb3130125e52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/0391d5c793169b0aa58bedb1fcfe16978b0ecf39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30749c0ea7d4bcc9a3e90be598dbd7497d53d8a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_b368f95a3ca1c1ca6fc24734c2f6e3a0fb9b5aa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/425556a31fd872a6439492f5cf9bad7d7e7ef29b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_386de382143f1430c3082b023832fa42efe28b5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="46d6aa067340dc9d2ac0b592114d6664293d552e">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ebf6ca48280dfd6f7183d3cd40fb98decac274a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/425476339bd493cd0035f35e84c243636e36363b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_332b51e62333ee182b3970577aeb75c130505880/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/f8b7c104596d3dea1832b1bff826b8a9c19e5abd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fb049695bc524a44d52b6615367790b9452b07c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/67d02b8478275271e2aa62e1959702160e59608b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b702357e1b4612954bdf0f25b81decd5d97d6e2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/7f96a39e50018436a88ed675d04b63ce462c1af1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d88a76b5d367e848a7ab780fdedb2f08790ed097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/320904b08a4fe1023de0e4cb2aa21e0989b8365f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d203c57c2f2b766cdeb72ce0c2626591f02fa5d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/ec56e664350259d44a5bfe1b258139be5a8db212/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33491632b22dec49a8de4c1374099d12256b1a67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/75db5ec4095d62f82d2648526a97fb0a84d4d52f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26a2de1ece9c962e5a3eeb125422d4eedd33cf56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/ec47e632b7d569b91cd25f886e671c7edb966dc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d58ccb73d423fe338f504732d797f3d6bed62dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/fbf4b8174fe9301ae9c695bd48c85c78acfeba64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a883402815cf6ab7b526e84bbd1d8752f075cd3">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dc7a9faee35b5db5581c7e43ec555a920b12f86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/3e8a1169fcad1eaba03fec2902103bf79919b9a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_732238ea0453d05fe7213b85019a234f1c7a541b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_98dbfe60289ccc8d0a80c41b4cf27ab3f2c897ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/8e90763057f4cc9b70521cd63743e5717e29aa39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34fc70f7f1d882154d876ea763f05977d9945699">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92a78cdaee31dfcefdf4317e5be89fedb8f0b8da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/4e0bcefa43e250dbfe3b007af31d9e7e6616ed12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31dbe885ef6a9d6a88412750e85784f60b95cb90">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bbc7ba2f5507f5fa4d5224ac3ccb5bc4ec535e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/a358f67881be931ae655f4bb0ef84300228730cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e6486fcc7e4175031ea9d375d48b000d4d4c8f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/1c7fd03bf6dfc606fc4fec74b67165b99c6425fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc2198d7fe0e44e5aeeda6fdeb7210ca3e0b427b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/fda06851171fcd4cf1811080410c46bd824f652d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f76451251252a4f498f447b3a28845834824ae34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/b87f48a4ceb81eaf37c86785ca50d2719d4c524a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ad250273454cec60a2e3eea98bad73e82e18a67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/b4c91b6887fff1b83cb4ab282a44f0b6b53aa910/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59a83aab24d338b9d2395047e3f5f6fb76698336/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/f65beba25ead0e59af41ec15fa196c5cbc5fa2ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69f147e5e265ccdffca694c97a4365f295172739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/9bf403d9f3a09a42ad3aec920c588ba540f13f32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfac048a7c0259765dd70981dc19f37550cec4e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/0cf98c5d7771c67d92eb918e7b755d870a7b78cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8a188b091099bf05943e9ae3bda6242967d6d8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/.android/build-cache/7938c3999d7c950142cf37d5f1a60138b70d99a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c1ecffa54b1222e8a50e9263c8ecba5d8caefc5">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3387ae20f4991f0fe42f28e610ad9a6b9ebd8049/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_98e8fc8bbeaa402c6dcf6dffc9905a6f472b7ea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Xesar/Desktop/faveoapp/faveo-helpdesk-android-app/faveo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c6c324de8ec221249f91b85f9ee17ea56a938518/classes.dex" />
+    </item>
+
+</items>
