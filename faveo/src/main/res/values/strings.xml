@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Sistema Prioridades</string>
+
+    <string name="hello_world">Hola mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_client_list">ClientListActivity</string>
+    <string name="title_activity_client_profile">ClientProfileActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_splash">Prioridades</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_ticket_detail">TicketDetailActivity</string>
+
+    <string name="drawer_open" translatable="false">Abrir</string>
+    <string name="drawer_close" translatable="false">Cerrar</string>
+
+    <string name="title_activity_main">Prioridades</string>
+    <string name="create_ticket">Abrir prioridad</string>
+    <string name="inbox_tickets">Inbox</string>
+    <string name="my_tickets">Enivadas</string>
+    <string name="unassigned_tickets">Sin Asignar</string>
+    <string name="closed_tickets">Cerradas</string>
+    <string name="trash_tickets">Basura</string>
+    <string name="client_list">Lista Usuarios</string>
+    <string name="settings">Ajustes</string>
+    <string name="about">Info</string>
+
+    <string name="com.crashlytics.CrashSubmissionPromptTitle">
+          ¿Enviar Reportes de Error?</string>
+    <string name="com.crashlytics.CrashSubmissionPromptMessage">
+          Al parecer provoco un error! Ayudanos a arreglar el problema enviandonos un reporte.</string>
+    <string name="com.crashlytics.CrashSubmissionSendTitle">
+          Enviar</string>
+    <string name="com.crashlytics.CrashSubmissionAlwaysSendTitle">
+          Siempre Enviar</string>
+    <string name="com.crashlytics.CrashSubmissionCancelTitle">
+          No Enviar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola Fragmento en Blanco</string>
+
+</resources>
